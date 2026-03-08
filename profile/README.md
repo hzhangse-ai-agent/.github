@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 企业级AI Agent系统
 
 ## 一、项目概述
